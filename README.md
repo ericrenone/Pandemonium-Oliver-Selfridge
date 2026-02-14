@@ -33,7 +33,7 @@ Selfridge described learning architecture without mathematical laws. GTI provide
 | True peaks | Flat global minima | Low curvature, high C_α |
 | "Unequivocal decision" | High confidence | Occurs when C_α > 1 |
 
-## > Selfridge's "loudest demon wins" criterion is mathematically equivalent to the phase transition at C_α = 1.
+> Selfridge's "loudest demon wins" criterion is mathematically equivalent to the phase transition at C_α = 1.
 
 ---
 
